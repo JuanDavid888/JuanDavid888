@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandavid888" alt="juandavid888" /></a> </p>
 
-- 🔭 I’m currently working on **activities to practice coding**
+- 🔭 I’m currently working on **activities to practice my coding skills**
 
-- 🌱 I’m currently learning **Programming languagues to improve myself**
+- 🌱 I’m currently learning **programming languages to improve myself and achieve my dreams someday.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JuanDavid888](https://github.com/JuanDavid888)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/JuanDavid888)
 
-- 📝 I regularly write notes on my personal Notion, also taking notes in my code
+- 📝 I regularly write notes on my personal Notion
 
-- ⚡ Fun fact: **I like listening to music when i'm coding**
+- ⚡ Fun fact: **I like to listen to music when I'm programming, I like to play ping pong, and I like to be honest and collaborative with everyone.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandavid888&show_icons=true&locale=en&layout=compact" alt="juanjaimes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandavid888&show_icons=true&locale=en" alt="juan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandavid888&" alt="juandavid" /></p>
