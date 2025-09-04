@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **programming languages to improve myself and achieve my dreams someday. Also improving my soft skills in every project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JuanDavid888](https://github.com/JuanDavid888)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/JuanDavid888)
 
 - 📫 How to reach me **jaimesjuandavid94@gmail.com**
 
